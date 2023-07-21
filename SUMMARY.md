@@ -1,4 +1,5 @@
 # Table of contents
 
 * [illumos](README.md)
-* [dicussion board] (https://illumos.topicbox.com/)
+* [connect](connect/README.md)
+  * [discussions](https://illumos.topicbox.com/)
