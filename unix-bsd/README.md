@@ -45,8 +45,6 @@ description: 'Source: Tech Insider'
 1984-10-26   Time zones in other countries - See [document](https://www.tech-insider.org/unix/research/1984/1026.html)\
 1984-12-15   Computing Facilities at UCSD - See [document](https://www.tech-insider.org/unix/research/1984/1215.html)
 
-1985-02-18   [BSD](https://www.tech-insider.org/unix/research/1985/0218-a.html)  \[YouTube]\
-1985-02-18   [Sun Microsystems](https://www.tech-insider.org/unix/research/1985/0218-b.html)  \[YouTube]\
 1985-02-25   [A Weakness in the 4.2BSD Unix TCP/IP Software](https://www.tech-insider.org/unix/research/acrobat/850225.pdf)  \[PDF]\
 1985-08-xx   [4.2BSD window system](https://www.tech-insider.org/unix/research/1985/08.txt)\
 1985-11-06   Daylight Saving Time - See [document](https://www.tech-insider.org/unix/research/1985/1106.html)
