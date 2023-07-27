@@ -78,7 +78,6 @@ description: 'Source: Tech Insider'
 
 1989-xx-xx [Study of the Reliability of Unix Utilities](https://www.tech-insider.org/unix/research/acrobat/89.pdf) \[PDF]\
 1989-02-14 [SunOS Internals: Data Structures and Algorithms](https://www.tech-insider.org/unix/research/1989/0214.html)\
-1989-04-18 [BSD](https://www.tech-insider.org/unix/research/1989/0418-d.html) \[YouTube]\
 1989-05-03 [SO\_KEEPALIVE considered harmful?](https://www.tech-insider.org/unix/research/1989/0523.html)\
 1989-06-09 [Sun tutorials](https://www.tech-insider.org/unix/research/1989/0609.html)\
 1989-07-13 [UUNET Source archives available on tape](https://www.tech-insider.org/unix/research/1989/0713.html)
