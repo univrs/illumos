@@ -1,5 +1,16 @@
 ---
 description: Resources for developers and sys admins
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # illumos
@@ -30,7 +41,8 @@ description: Resources for developers and sys admins
 * [C Compiler (PCC) to Illumos](https://briancallahan.net/blog/20230705.html)
 * [Oxide Guides](https://docs.oxide.computer/guides/introduction)
 * [OmniOS-Wiki](https://github.com/omniosorg/omnios-wiki)
-* [AWS AMI: Ominos](https://ardeshir.io/omnios)
+* [AWS AMI: OmniOS](https://ardeshir.io/omnios)
+* [Tailscale on OmniOS](https://lightsandshapes.com/posts/tailscale-on-omnios/)
 
 ### [illumos Developer's Guide](https://illumos.org/books/dev/)
 
