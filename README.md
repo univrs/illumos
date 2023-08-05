@@ -20,7 +20,8 @@ description: Resources for developers and sys admins
 | [v9os](http://www.milax.fi/v9os.html)          | [MilaX](http://www.milax.fi/)                                    | Server               |                  | _check_     | IPS                                  |         | _check_ |         |         |
 | [Danube Cloud](https://danube.cloud/)          | [Danube Cloud Community](https://github.com/erigones/esdc-ce)    | Hypervisor           | Proxmox          | _check_     | [pkgsrc](https://pkgsrc.joyent.com/) | _check_ |         |         |         |
 
-[**Documentation** ](https://illumos.org/docs/)\
+[**Documentation:**\
+](https://illumos.org/docs/)The source for the documentation is available on github, in the [illumos/docs](https://github.com/illumos/docs) repository.[ ](https://illumos.org/docs/)\
 \
 **Books & Papers:**
 
