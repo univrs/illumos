@@ -6,6 +6,23 @@ description: Resources for developers and sys admins
 
 ***
 
+[Distributions](https://illumos.org/docs/about/distro/)\
+
+
+| Project                                        | Provider                                                         | Focus                | Linux Comparison | Open Source | Packaging                            | x86     | SPARC   | KVM     | LX      |
+| ---------------------------------------------- | ---------------------------------------------------------------- | -------------------- | ---------------- | ----------- | ------------------------------------ | ------- | ------- | ------- | ------- |
+| [OmniOS CE](https://www.omniosce.org/)         | [OmniOS Community Association](https://omniosce.org/about/about) | Servers              | Debian           | _check_     | IPS                                  | _check_ |         | _check_ | _check_ |
+| [OpenIndiana](https://www.openindiana.org/)    | [OpenIndiana](https://www.openindiana.org/)                      | Workstation, Servers | Ubuntu           | _check_     | IPS                                  | _check_ |         | _check_ |         |
+| [SmartOS](https://smartos.org/)                | [MNX Solutions](https://mnxsolutions.com/)                       | Hypervisor           | CoreOS           | _check_     | [pkgsrc](https://pkgsrc.joyent.com/) | _check_ |         | _check_ | _check_ |
+| [NexenStor](https://community.nexenta.com/s/)  | [Nexenta](https://nexenta.com/)                                  | Storage              |                  |             | APT                                  | _check_ |         |         |         |
+| [Tribblix](http://www.tribblix.org/)           | Peter Tribble                                                    | Workstation, Servers | Slackware        | _check_     | SVR4                                 | _check_ | _check_ |         | _check_ |
+| [DilOS](http://www.dilos.org/)                 | igork                                                            | Workstation, Servers |                  | _check_     | APT                                  | _check_ | _check_ | _check_ | _check_ |
+| [XStreamOS](http://www.sonicle.com/xstreamos/) | [Sonicle](http://www.sonicle.com/)                               | Server               |                  | _check_     |                                      | _check_ |         |         |         |
+| [v9os](http://www.milax.fi/v9os.html)          | [MilaX](http://www.milax.fi/)                                    | Server               |                  | _check_     | IPS                                  |         | _check_ |         |         |
+| [Danube Cloud](https://danube.cloud/)          | [Danube Cloud Community](https://github.com/erigones/esdc-ce)    | Hypervisor           | Proxmox          | _check_     | [pkgsrc](https://pkgsrc.joyent.com/) | _check_ |         |         |         |
+
+\
+\
 **Books & Papers:**
 
 * [Updated versions of Sun docbooks for illumos](https://github.com/illumos/illumos-docbooks)
