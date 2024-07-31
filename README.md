@@ -41,7 +41,7 @@ layout:
 * [C Compiler (PCC) to Illumos](https://briancallahan.net/blog/20230705.html)
 * [Oxide Guides](https://docs.oxide.computer/guides/introduction)
 * [OmniOS-Wiki](https://github.com/omniosorg/omnios-wiki)
-* [AWS AMI: OmniOS](https://ardeshir.io/omnios)
+* [AWS AMI: OmniOS](https://ardeshir.io/about.html)
 * [Tailscale on OmniOS](https://lightsandshapes.com/posts/tailscale-on-omnios/)
 
 ### [illumos Developer's Guide](https://illumos.org/books/dev/)
