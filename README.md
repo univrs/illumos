@@ -1,16 +1,5 @@
 ---
 description: Resources for developers and sys admins
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # illumos
@@ -31,13 +20,12 @@ layout:
 | [v9os](http://www.milax.fi/v9os.html)          | [MilaX](http://www.milax.fi/)                                    | Server               |                  | _check_     | IPS                                  |         | _check_ |         |         |
 | [Danube Cloud](https://danube.cloud/)          | [Danube Cloud Community](https://github.com/erigones/esdc-ce)    | Hypervisor           | Proxmox          | _check_     | [pkgsrc](https://pkgsrc.joyent.com/) | _check_ |         |         |         |
 
-[**Documentation:**\
-](https://illumos.org/docs/)The source for the documentation is available on github, in the [illumos/docs](https://github.com/illumos/docs) repository.[ ](https://illumos.org/docs/)\
+[**Documentation:**<br>](https://illumos.org/docs/)The source for the documentation is available on github, in the [illumos/docs](https://github.com/illumos/docs) repository.[ ](https://illumos.org/docs/)\
 \
 **Books & Papers:**
 
 * [Updated versions of Sun docbooks for illumos](https://github.com/illumos/illumos-docbooks)
-* [illumos: Boot Loader Paper](https://s3.amazonaws.com/dev.univrs.io/books/illumos\_Boot\_Loader.pdf)
+* [illumos: Boot Loader Paper](https://s3.amazonaws.com/dev.univrs.io/books/illumos_Boot_Loader.pdf)
 * [C Compiler (PCC) to Illumos](https://briancallahan.net/blog/20230705.html)
 * [Oxide Guides](https://docs.oxide.computer/guides/introduction)
 * [OmniOS-Wiki](https://github.com/omniosorg/omnios-wiki)
