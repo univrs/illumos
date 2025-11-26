@@ -7,5 +7,5 @@
 * [unix - bsd](unix-bsd/README.md)
   * [unix](unix-bsd/unix.md)
 
-## Univrs.io Docs
-* [univrs.io ](https://book.univrs.io/docs/)
+## univrs
+* [docs ](https://book.univrs.io/docs/)
